@@ -1,54 +1,20 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Newbie Introducted to Javascript"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2022-08-31
 published: true
 labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+It has been a little over week since I eased my way into Javascript and overall it has been a pleasant experience. My journey into the coding world is fairly new, the only languages I’ve dipped into so far have been Java,  C, and C++. Compared to the other languages, I found Javascript much easier to comprehend. From my perspective I’ve found Javascript to have a more simplistic approach compared to the other languages. As it allows for users to manipulate functions more freely.  
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+The website our class had used to introduce us to Javascript, was FreeCodeCamp.org. The introduction to an online code camp was very instructive and insightful. I actually enjoyed how it taught the user in a hands on manner. It cleared up a lot of conceptual topics which I have had trouble in the past. When declaring variables or objects, I’ve noticed its alot simpler compared to Java. I sense that the more I get to know Javascript it will help me to excel in other languages as well. 
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+Along with the introduction of Javascript, HTML and CSS had been introduced to me. Which peaked my interest further into learning Javascript. I have no prior experience nor knowledge in web development but I’ve always wanted to learn more about it. The creative side of coding has always been interesting to me, so getting to know how HTML/CSS work will be very beneficial to me. I’ve always been curious how different features or buttons are created, on websites and applications which we use everyday. 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+In addition to a new coding language, I recently got introduced to athletic software engineering. When I first heard about it in class, it sent chills down my spine and my anxiety spiked through the roofs. The pressure to code under a short span of time is very overwhelming, I usually check my code over 10 times before submitting an assignment. We did receive some timed practice assignments for homework and it was actually very insightful. It made realize that in the real world they would expect an experienced coder to think and code well in a limited time and under pressure. After timing myself numerous times after another it wasn’t so bad because over time with practice, I would get better. This made me much more optimistic about working under pressure. 
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Overall, learning Javascript has been a quite enjoyable and I look forward to diving deeper into the language. I understand it’s heavily used in web development so I look forward to how it is applied in online applications and browsers. My journey into coding is still long, I have so much to learn but I’m excited to learn more from those around me. I will not only be taking coding skills from this experience but study skills as well. 
