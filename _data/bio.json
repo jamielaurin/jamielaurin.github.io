@@ -10,9 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jamielaurin", "url": "http://github.com/jamielaurin" },
-      { "network": "linkedin", "username": "jamielaurin", "url": "https://www.linkedin.com/in/jamie-laurin-2156b51b9/" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "jamielaurin", "url": "https://www.linkedin.com/in/jamie-laurin-2156b51b9/" }
     ]
   },
   "interests": [
