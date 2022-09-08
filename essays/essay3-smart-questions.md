@@ -15,7 +15,7 @@ labels:
 
 ## The Power of Asking the Right Questions
 
-"There's no such thing as a stupid question." This is a statement which I've heard countlessly thorughout my life. It wasn't until recently I've realized the way we ask questions generate a specific response from others. From our tone, use of language, accessibility to ask/answer questions, to how explicit we are regarding the matter, etc. 
+"There's no such thing as a stupid question." This is a statement which I've heard countlessly throughout my life. It wasn't until recently I've realized the way we ask questions generate a specific response from others. From our tone, use of language, accessibility to ask/answer questions, to how explicit we are regarding the subject matter, etc. 
 
 ## "Smart" Questions!
 
@@ -41,4 +41,4 @@ Question:
 
 ## Conclusion 
 
-We gain valuble knowledge from questions we ask those with greater expertise. The way we ask question will shape our understanding of concepts 
+We gain valuble knowledge from questions we ask those with greater expertise. The way we ask question will shape our understanding of concepts further. 
