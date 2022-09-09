@@ -12,7 +12,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/question-mark-to-light-bulb.jpeg">
+<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/question-mark-to-light-bulb.jpeg">
 
 ## The Power of Asking the Right Questions
 
