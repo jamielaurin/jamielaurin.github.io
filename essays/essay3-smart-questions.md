@@ -30,10 +30,7 @@ Click on this <a href="https://stackoverflow.com/questions/1986896/what-is-the-d
 
 <img width="600px" class="center" src="../img/smart-questions/Screen Shot 2022-09-08 at 11.05.37 PM.png">
 
-
-This question sounds very simple. However as you can see in the picture below, they provided the specific details needed to solve their question. 
-
-
+This question sounds very simple. However as you can see in the picture below, they provided the specific details needed to solve their question. The user was very specific by showing exacly how the example function are properly called and inquired two more specfic questions regarding the topic. 
 
 
 ## "Stupid" Questions?
@@ -46,7 +43,7 @@ Question: Is it possible for my app to be hacked by overriding JavaScript functi
 
 <img width="600px" class="center" src="../img/smart-questions/Screen Shot 2022-09-08 at 11.05.28 PM.png">
 
-The question being sounds like it could be answered with a simple "yes" or "no response, but the person had not included 
+The question being sounds like it could be answered with a simple "yes" or "no response, but the person had not included any significant details which would help another answer their question properly. 
 
 
 ## Conclusion 
