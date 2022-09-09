@@ -28,23 +28,25 @@ In the following example, we will analyze a proper way to ask a question.
 Question: What is the difference between call and apply?
 Click on this <a href="https://stackoverflow.com/questions/1986896/what-is-the-difference-between-call-and-apply?fbclid=IwAR1JIjTT97hSa_2J8JvVAdV243AE0KSKQHMaMNW9nKtHP6ZGm2Y8AmYbySQ">link</a> to view
 
-<img width="500px" src="../img/smart-questions/Screen Shot 2022-09-08 at 11.05.37 PM.png">
+<img width="600px" class="center" src="../img/smart-questions/Screen Shot 2022-09-08 at 11.05.37 PM.png">
 
 
-The way this question sounds very simple. However in the  
+This question sounds very simple. However as you can see in the picture below, they provided the specific details needed to solve their question. 
 
 
 
 
 ## "Stupid" Questions?
 
-There are many questions asked which may leave people dumbfounded and lost depending on how obtuse a question is. Questions 
+There are many questions asked which may leave people dumbfounded and lost depending on how obtuse a question is. 
 
 In the following example, we will analyze how questions may lead to unresolved understanding when asked without proper thought. 
 
 Question: Is it possible for my app to be hacked by overriding JavaScript functions? Click on this <a href="https://stackoverflow.com/questions/73656601/is-it-possible-for-my-app-to-be-hacked-by-overriding-javascript-functions?fbclid=IwAR3GC49cjwcMjpUpLibX6uIm00ZbdwvoZUlE6GcEwTvA3bfbVI7wPP7-_Ls">link</a> to view. 
 
-<img width="500px" src="../img/smart-questions/Screen Shot 2022-09-08 at 11.05.28 PM.png">
+<img width="600px" class="center" src="../img/smart-questions/Screen Shot 2022-09-08 at 11.05.28 PM.png">
+
+The question being sounds like it could be answered with a simple "yes" or "no response, but the person had not included 
 
 
 ## Conclusion 
