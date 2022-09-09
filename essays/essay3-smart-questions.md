@@ -47,7 +47,7 @@ In the following example, we will analyze how questions may lead to unresolved u
 Question: 
 Click on this <a href="https://stackoverflow.com/questions/73656601/is-it-possible-for-my-app-to-be-hacked-by-overriding-javascript-functions?fbclid=IwAR3GC49cjwcMjpUpLibX6uIm00ZbdwvoZUlE6GcEwTvA3bfbVI7wPP7-_Ls">link</a> to view. 
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/Screen Shot 2022-09-08 at 11.05.28 PM.png">
+<img width="300px" src="../img/smart-questions/Screen Shot 2022-09-08 at 11.05.28 PM.png">
 
 
 ## Conclusion 
