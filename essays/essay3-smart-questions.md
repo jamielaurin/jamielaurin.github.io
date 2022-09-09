@@ -47,6 +47,9 @@ In the following example, we will analyze how questions may lead to unresolved u
 Question: 
 Click on this <a href="https://stackoverflow.com/questions/73656601/is-it-possible-for-my-app-to-be-hacked-by-overriding-javascript-functions?fbclid=IwAR3GC49cjwcMjpUpLibX6uIm00ZbdwvoZUlE6GcEwTvA3bfbVI7wPP7-_Ls">link</a> to view. 
 
+<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/Screen Shot 2022-09-08 at 11.05.28 PM.png">
+
+
 ## Conclusion 
 
 We gain valuable knowledge from questions we ask those with greater expertise. The way we ask question can shape our understanding of concepts. With proper judgement in the questions we ask, we will benefit so much more. It is especially important for software engineers to ask smart questions. When coding there's a lot of variables that play a part into a project. It is very important to get a second opinion to not only get the correct answer out of it, but to see another's perspective. There are so many which we can code a single program and when we get insight from another person it opens our perspective to the other possible ways to code. 
