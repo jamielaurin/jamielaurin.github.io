@@ -29,7 +29,7 @@ Click on this <a href="https://stackoverflow.com/questions/1986896/what-is-the-d
 
 <img width="600px" class="center" src="../img/smart-questions/Screen Shot 2022-09-08 at 11.05.37 PM.png">
 
-This question sounds very simple. However as you can see in the picture below, they provided the specific details needed to solve their question. The user was very specific by showing exacly how the example function are properly called and inquired two more specfic questions regarding the topic. If you click on the link above you'll be able to see all the amazing answers in reponse to this question. From a simple, consise, and detailed questions this user was able to obtain more information than the inital one asked for. Other programmers and even offered additional coding examples. 
+This question sounds very simple. However as you can see in the picture below, they provided the specific details needed to solve their question. The user was very specific by showing exacly how the example function are properly called and inquired two more specfic questions regarding the topic. If you click on the link above you'll be able to see all the amazing answers in reponse to this question. From simple, concise, and detailed questions this user was able to obtain more information than the inital one asked for. Other programmers and even offered additional coding examples. 
 
 ## "Stupid" Questions?
 
@@ -40,7 +40,7 @@ In the following example, we will analyze how questions may lead to unresolved u
 
 <img width="600px" class="center" src="../img/smart-questions/Screen Shot 2022-09-08 at 11.05.28 PM.png">
 
-The question being sounds like it could be answered with a simple "yes" or "no response, but the person had not included any significant details which would help another programmer to answer their question properly. They had not explained what "project" they're using in their code. It would have have been beneficial if they had provided an example of the code for others to view. You are able to see from the image above, this post has been "closed" on the StackOverflow site. What does this ean exactly? It means other users have viewed it as a question that doesn't fit on the site itself, due to lack of clarity. This is a very intgeresting feature on this site, as it allows proper feedback to not only those who answer questions but to those who ask.
+The question being sounds like it could be answered with a simple "yes" or "no response, but the person had not included any significant details which would help another programmer to answer their question properly. They had not explained what "project" they're using in their code. It would have have been beneficial if they had provided an example of the code for others to view. You are able to see from the image above, this post has been "closed" on the StackOverflow site. What does this mean exactly? It means other users have viewed it as a question that doesn't fit on the site itself, due to lack of clarity. This is a very intgeresting feature on this site, as it allows proper feedback to not only those who answer questions but to those who ask.
 
 ## Conclusion 
 
