@@ -29,7 +29,7 @@ Click on this <a href="https://stackoverflow.com/questions/1986896/what-is-the-d
 
 <img width="600px" class="center" src="../img/smart-questions/Screen Shot 2022-09-08 at 11.05.37 PM.png">
 
-This question sounds very simple. However as you can see in the picture below, they provided the specific details needed to solve their question. The user was very specific by showing exacly how the example function are properly called and inquired two more specfic questions regarding the topic. If you click on the link above you'll be able to see all the amazing answers in reponse to this question. From simple, concise, and detailed questions this user was able to obtain more information than the inital one asked for. Other programmers and even offered additional coding examples. 
+This question sounds very simple. However as you can see in the picture below, they provided the specific details needed to solve their question. The user was very specific by showing exactly how the example function are properly called and inquired two more specfic questions regarding the topic. If you click on the link above you'll be able to see all the amazing answers in reponse to this question. From simple, concise, and detailed questions this user was able to obtain more information than the inital one asked for. Other programmers and even offered additional coding examples. 
 
 ## "Stupid" Questions?
 
