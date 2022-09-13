@@ -7,6 +7,7 @@ date: 2022-08-31
 published: true
 labels:
   - Engineering
+  - Javascript
 ---
 
 It has been a little over week since I eased my way into Javascript and overall it has been a pleasant experience. My journey into the coding world is fairly new, the only languages I’ve dipped into so far have been Java,  C, and C++. Compared to the other languages, I found Javascript much easier to comprehend. From my perspective I’ve found Javascript to have a more simplistic approach compared to the other languages. As it allows for users to manipulate functions more freely.  
