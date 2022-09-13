@@ -4,7 +4,7 @@ type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Pokedex"
 date: 2020
-published: true
+published: false
 labels:
   - Robotics
   - Arduino
