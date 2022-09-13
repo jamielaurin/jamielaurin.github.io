@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Pokedex"
+title: "SHA-1"
 date: 2020
 published: false
 labels:
