@@ -4,9 +4,8 @@ type: project
 image: img/sha.png
 title: "SHA-1"
 date: 2021
-published: false
+published: True
 labels:
-  - Robotics
   - C
 summary: "Implementing SHA-1"
 ---
