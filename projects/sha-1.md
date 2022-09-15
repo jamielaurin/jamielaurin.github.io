@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/sha.png
 title: "SHA-1"
 date: 2020
 published: false
