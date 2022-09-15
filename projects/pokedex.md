@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/541-5418323_gameboy-drawing-electronics-inside-of-a-pokedex-hd.png
 title: "Pokedex"
 date: 2020
 published: false
