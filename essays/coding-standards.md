@@ -10,7 +10,7 @@ labels:
   - ESLint
 ---
 
-<img width="300px" src="../img/d1d0f6c27141606521bfa6171bfe2a84.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/d1d0f6c27141606521bfa6171bfe2a84.png">
 
 There are millions of programmers around the world, and every one of them has their own way of coding. How a person code reveals a lot about themselves, from their thought process to how meticulous or careless one may be. No matter what type of programmer someone may be, it is essential to remember that coding standards play an important part in improving one's knowledge of programming languages and the quality of their work. Most of the time, we don't think about how our code looks or is presented. I used to believe that as long our code runs properly and works like it's supposed to, we've done a good job. However, that is not the case; using coding standards has a much more significant impact than purely aesthetic reasons. 
 
