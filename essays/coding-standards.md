@@ -16,9 +16,7 @@ There are millions of programmers around the world, and every one of them has th
 
 ## Importance 
 
-Readability is an important result of coding standards. Instead of wasting hours and hours trying to decipher a piece of code, readability allows for others and also for yourself to look back at a piece of code and comprehend and understand it much faster. 
-
-Branching off of readability comes reusability. Using coding standards will cut time on the work you do on future projects as well. This is because you will be able to look back and reuse the code more efficiently while boosting productivity with methodologies you've already encountered previously. As you can see, coding standards have a domino effect on one's ability to code, and it is something that I believe will be very beneficial to one in practice. 
+Readability is an important result of coding standards. Instead of wasting hours and hours trying to decipher a piece of code, readability allows for others and also for yourself to look back at a piece of code and comprehend and understand it much faster. Branching off of readability comes reusability. Using coding standards will cut time on the work you do on future projects as well. This is because you will be able to look back and reuse the code more efficiently while boosting productivity with methodologies you've already encountered previously. As you can see, coding standards have a domino effect on one's ability to code, and it is something that I believe will be very beneficial to one in practice. 
 
 
 ## Implementing Coding Standards 
