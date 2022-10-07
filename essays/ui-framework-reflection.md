@@ -11,7 +11,7 @@ labels:
   - Bootstrap
 ---
 
-<img width='500px' class="rounded float-start pe-4" src="../img/css.jpeg"/>
+<img width='500px' class="center" src="../img/css.jpeg"/>
 
 Behind every website lies a combination of HTML and CSS. Conceptually, using HTML & CSS may be easy for someone to understand. However, using only HTML and CSS files to create a decent-looking website is much more complicated than it seems. This brings us to the importance of UI Frameworks. Why exactly? UI Frameworks are a set of classes and interfaces that can be built upon further. It serves as a foundation for programmers so that we don’t have to start from scratch. Nine lines of CSS code can be compacted into one or two lines by simply using the classes and features provided by frameworks.
 
