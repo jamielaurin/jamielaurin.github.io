@@ -1,19 +1,21 @@
 ---
 layout: essay
 type: essay
-title: "Design Patterns"
+title: "Wait a Minute...Again?"
 # All dates must be YYYY-MM-DD format!
 date: 2022-12-01
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning
+  - Design Patterns
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+They say history repeats itself, which has been proven time and time again. It may not seem like it, but problems you may have encountered have been dealt with or are being dealt with by another person. The solutions to our problems may be different from others. Despite that, the answer we seek usually has a similar structure conceptually. In 1977, an architect named Christopher Alexander coined the term "design patterns". Which he describes this as a solution to problem that may be used in multiple context.
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design. These are specific structures/information which may be used to approach a problem. They are powerful tools which help resolve issues more efficiently.  
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+## 
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+
+Things that have happened in the past will or tend to happen again in one way or another. We are fortunate to have design patterns that guide us in the problems we face today. Putting the knowledge learned from others will only benefit our skills as engineers. Design patterns will be a powerful asset to add to your collection.
