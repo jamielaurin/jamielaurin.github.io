@@ -11,6 +11,8 @@ labels:
   - Design Patterns
 ---
 
+<img width='300px' class="center" src="../img/download.jpeg"/>
+
 They say history repeats itself, which has been proven time and time again. It may not seem like it, but problems you may have encountered have been dealt with or are being dealt with by another person. The solutions to our problems may be different from others. Despite that, the answer we seek usually has a similar structure conceptually. In 1977, an architect named Christopher Alexander coined the term "design patterns". Which he describes this as a solution to problem that may be used in multiple context.
 
 In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design. These are specific structures/information which may be used to approach a problem. They are powerful tools which help resolve issues more efficiently. 
