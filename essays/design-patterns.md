@@ -4,7 +4,7 @@ type: essay
 title: "Wait a Minute...Again?"
 # All dates must be YYYY-MM-DD format!
 date: 2022-12-01
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning
@@ -17,7 +17,7 @@ In software engineering, a design pattern is a general repeatable solution to a 
 
 ## Diving In 
 
-During my experience in my software engineering class, I've encountered a few design patterns which I found helpful for my final project. The publish-subscribe design pattern, specifics how available we want data to be seen. This pattern has guided me to create an application which is highly user-based, user may be limited to view data they have created while admins may view data created from all users. The front contoller design pattern 
+During my experience in my software engineering class, I've encountered a few design patterns which I found helpful for my final project. The publish-subscribe design pattern, specifics how available we want data to be seen. This pattern has guided me to create an application which is highly user-based, user may be limited to view data they have created while admins may view data created from all users. The front contoller design pattern handles all the requests in a web application. The implementation of centralized control avoids using multiple controllers is desirable in order to enforcing application-wide policies such as user tracking and security.
 
 ## Utlilize to Your Advantage
 
