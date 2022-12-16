@@ -1,0 +1,62 @@
+{
+  "basics": {
+    "name": "Jamie Laurin",
+    "label": "Student",
+    "picture": "https://github.com/jamielaurin.png",
+    "email": "jlaurin8@hawaii.edu",
+    "website": "https://jamielaurin.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall 2023.",
+    "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jamielaurin", "url": "http://github.com/jamielaurin" },
+      { "network": "linkedin", "username": "jamielaurin", "url": "https://www.linkedin.com/in/jamie-laurin-2156b51b9/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Virtual Reality" },
+    { "name": "Data Visualization" },
+    { "name": "Web Development" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2020-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Foodland Farms",
+      "position": "Office Clerk",
+      "website": "",
+      "startDate": "2018",
+      "endDate": "Present",
+      "summary": "Customer Service Counter",
+      "highlights": [
+        "Provide services to customers, solving problems, handling bill payments, and routing phone calls.",
+        "Balance cash drawers, prepare store deposits, complete necessary paperwork, and perform all duties of a cashier.",
+        "Manage and guide cashiers when necessary."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
