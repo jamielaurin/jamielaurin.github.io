@@ -39,6 +39,21 @@
       ]
     }
   ],
+  "work": [
+    {
+      "company": "Foodland Farms",
+      "position": "Office Clerk",
+      "website": "",
+      "startDate": "2018",
+      "endDate": "Present",
+      "summary": "Customer Service Counter",
+      "highlights": [
+        "Provide services to customers, solving problems, handling bill payments, and routing phone calls.",
+        "Balance cash drawers, prepare store deposits, complete necessary paperwork, and perform all duties of a cashier.",
+        "Manage and guide cashiers when necessary."
+      ]
+    }
+  ],
   "references": [
     {
       "name": "Available upon request"
