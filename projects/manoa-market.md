@@ -14,7 +14,7 @@ summary: "A web application intended for members of the UH Manoa community to bu
 ---
 
 <a href="https://manoa-market.github.io/">Project Homepage</a>
-<img class="img-fluid" src="../img/homepage.png">
+<img width="400px" src="../img/homepage.png">
 
 <p>Manoa Market is a web application that I helped create as a team project in ICS 314, Fall 2022. The project allowed me learn how to design and implement a responsive website. <strong>Live Website:</strong> <a href="http://137.184.236.187/">Manoa Market</a></p>
 
