@@ -23,4 +23,4 @@ User Interface Frameworks have been a crucial tool during my final project withi
 ### Teamwork
 There are a handful of skills I’ve learnt which play a big part into software development. Teamwork had proven itself a more important role than I had orginally thought. It was my first time working a group setting when it comes to coding. It was interesting to see everyone's approach when it came to the project itself. We were able to learn from one another's mistakes. Others were able to fill in the blanks when another team member had a hard time envisoning or understanding a concept. 
 
-Overall, This past semester has been a very rewarding experience and I know this is just the beginning to a longer journey. I look forward to using the information I’ve gained throughout this course in any future endeavours I may encounter. 
+Overall, this past semester has been a very rewarding experience and I know this is just the beginning to a longer journey. I look forward to using the information I’ve gained throughout this course in any future endeavours I may encounter. 
