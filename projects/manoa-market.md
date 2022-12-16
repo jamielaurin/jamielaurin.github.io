@@ -20,7 +20,7 @@ summary: "A web application intended for members of the UH Manoa community to bu
 
 <img class="img-fluid" src="../img/listings.png">
  
-<p>Manoa Market was implemented using [Meteor](http://meteor.com), a JavaScript application platform. We created a website that implements several types of listings including books, furniture, electronics, and etc.</p>
+<p>Manoa Market was implemented using <a href="http://meteor.com">Meteor</a>, a JavaScript application platform. We created a website that implements several types of listings including books, furniture, electronics, and etc.</p>
 
 <p>In this project I gained experience with full-stack web application design and associated technologies, including <a href="http://mongodb.com">MongoDB</a> for database storage, the <a href="https://react-bootstrap.netlify.app/getting-started/introduction">React Bootstrap</a> CSS Framework for the user interface, and Javascript for both client and server-side programming. </p>
 
