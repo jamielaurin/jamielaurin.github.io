@@ -23,5 +23,4 @@ Manoa Market was implemented using [Meteor](http://meteor.com), a JavaScript app
 
 In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [React Bootstrap](https://react-bootstrap.netlify.app/getting-started/introduction) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
 
- Live Website: <a href="http://137.184.236.187/">Manoa Market</a>
-<a href="https://manoa-market.github.io/">Manoa Market GitHub</a>
+<a href="https://manoa-market.github.io/">Project Homepage</a>
