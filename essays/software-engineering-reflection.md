@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/software-engineering.png">
 
 This past semester has been an eye-opening experience for me. I'm fairly new to coding itself; before taking ICS 314 (Software Engineering I), I had absolutely no idea what exactly software engineering entails. It was my first time being introduced to HTML, CSS and Web Development in general. The class was a bit overwhelming at first with so many unfamiliar topics being introduced. But I have to say I’m absolutely grateful for all the new concepts learned and the tools gained during this experience. 
 
