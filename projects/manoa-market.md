@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/logo.png
+image: img/manoa-logo.png
 title: "Manoa Market"
 date: 2022
 published: true
