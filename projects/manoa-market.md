@@ -24,5 +24,5 @@ summary: "A web application intended for members of the UH Manoa community to bu
 
 <p>In this project I gained experience with full-stack web application design and associated technologies, including <a href="http://mongodb.com">MongoDB</a> for database storage, the <a href="https://react-bootstrap.netlify.app/getting-started/introduction">React Bootstrap</a> CSS Framework for the user interface, and Javascript for both client and server-side programming. </p>
 
-<p>Agile Project Management was our team's approach to developing this website. We had broken up the project into smaller projects(milestones), it allowed our team to focus on each feature of the site without getting too overwhelemed. We also had fellow students at UH test out our project and provide feedback whether it be positive or negative to determine whether or not properties needed further improvements. </p>
+<p>Agile Project Management was our team's approach to developing this website. We broke up our project into smaller projects(milestones), it allowed the team to focus on each feature of the site without getting too overwhelmed. We also had fellow students at UH test out our project and provide feedback whether it be positive or negative to determine whether or not properties needed further improvements. </p>
 
