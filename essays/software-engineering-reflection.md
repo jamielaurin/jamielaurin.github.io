@@ -4,7 +4,7 @@ type: essay
 title: "An Ending is a New Beginning"
 # All dates must be YYYY-MM-DD format!
 date: 2022-12-14
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning
